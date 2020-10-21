@@ -1,0 +1,21 @@
+button {
+    background-color: #E34138;
+    color: white;
+    border: 0;
+    border-radius: 10px;
+    padding: 10px 20px 10px 20px;
+}
+body {
+    text-align: center;
+}
+.title{
+    font-family: 'Permanent Marker', cursive;
+    font-size: xx-large;
+}
+button, .description{ 
+    font-family: 'Permanent Marker', cursive;
+    margin-top: 20px;
+}
+.youtube{
+    font-family: 'Sawarabi Gothic', sans-serif;
+}
